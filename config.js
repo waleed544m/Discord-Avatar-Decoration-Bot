@@ -9,14 +9,14 @@ Copyright (c) 2025 Wick Studio | discord.gg/wicks
 */
 
 module.exports = {
-  token: "TOKEN", // Your bot token
-  guildId: "ID", // Your server ID (for guild commands)
+  token: "MTM5ODAxNTc1MDIyNDIxNjE2Ng.GuFOuM.4LQ5Ulj-ury_sfFdzrDgFXyotQtN9BszMaYTpI", // Your bot token
+  guildId: "1334978784524501043", // Your server ID (for guild commands)
   
   // COMMAND SETTINGS
-  defaultPrefix: "!", // Prefix for commands
+  defaultPrefix: "-", // Prefix for commands
   cooldown: 5, // Command cooldown in seconds
   
-  allowedChannelIds: ["ID"], // Channel IDs
+  allowedChannelIds: ["1398017944985931786"], // Channel IDs
   
   avatarSize: 512, // Avatar size
   gifQuality: 10, // GIF quality (1-30)
